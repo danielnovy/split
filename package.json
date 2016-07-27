@@ -1,0 +1,18 @@
+{
+  "name": "split",
+  "version": "1.0.0",
+  "description": "",
+  "main": "split.js",
+  "dependencies": {
+    "ethereumjs-tx": "^1.1.2",
+    "hooked-web3-provider": "^1.0.0",
+    "web3": "^0.17.0-alpha",
+    "bluebird": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
